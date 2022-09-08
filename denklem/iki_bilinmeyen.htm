@@ -1,0 +1,490 @@
+<html>
+  <head>
+    <title>2-bilinmeyenli denklem alıştırması</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-9" />
+    <script type"text/javascript" src="http://code.jquery.com/jquery-1.11.0.min.js"></script>
+	<script type="text/javascript" src="script/soundmanager2.js"></script>
+	<script type="text/javascript">
+// Global değişken tanımları
+k11=0; k12=0; c1=0;
+k21=0; k22=0; c2=0;
+k_11=0; k_12=0; c_1=0;
+k_21=0; k_22=0; c_2=0;
+det=0; x=0; y=0;
+dogruD11=0; dogruD21=0;
+dogrux=0; dogruy=0;
+
+soundManager.url = 'swf/'; // path to SoundManager2 SWF files (note trailing slash)
+soundManager.debugMode = false;
+soundManager.consoleOnly = false;
+ 
+function ses() {
+  soundManager.play('ses','mp3/ses.mp3'); //çalacak olan ses dosyamız
+}
+
+function getRndInteger(min, max) { // min and max are included
+    return Math.floor(Math.random() * (max - min + 1) ) + min;
+}
+
+function gizleGoster(hangi,inline){
+  if (!document.getElementById) return
+  if ((hangi.style.display=="block")|(hangi.style.display=="inline-block")) hangi.style.display="none";
+  else if (typeof(inline)!= "undefined") {
+    if (inline!=0) hangi.style.display="inline-block";
+    else hangi.style.display="block";
+  }
+  else hangi.style.display="block";
+}
+
+function rasgeleDenklemKur() {
+ xyaz='<i><b>x</b></i>';
+ yyaz='<i><b>y</b></i>';
+ // 1'den 9'a random katsayılar + ya da - olacak.
+ // d... değişkeni 0 ise bilinen, 1 ise x, 2 ise y değişkeni
+ // sol ve sağ için dörder terim üretilecek.
+ det=0;
+ while (det==0) { // determinant 0 ise yeni denklemler kurulur.
+  dnk1sol1=getRndInteger(1,9); sign1L1=2*getRndInteger(0,1)-1; d1sol1=getRndInteger(0,2);
+  dnk1sol2=getRndInteger(1,9); sign1L2=2*getRndInteger(0,1)-1; d1sol2=getRndInteger(0,2);
+  dnk1sol3=getRndInteger(1,9); sign1L3=2*getRndInteger(0,1)-1; d1sol3=getRndInteger(0,2);
+  dnk1sol4=getRndInteger(1,9); sign1L4=2*getRndInteger(0,1)-1; d1sol4=getRndInteger(0,2);
+  dnk1sag1=getRndInteger(1,9); sign1R1=2*getRndInteger(0,1)-1; d1sag1=getRndInteger(0,2);
+  dnk1sag2=getRndInteger(1,9); sign1R2=2*getRndInteger(0,1)-1; d1sag2=getRndInteger(0,2);
+  dnk1sag3=getRndInteger(1,9); sign1R3=2*getRndInteger(0,1)-1; d1sag3=getRndInteger(0,2);
+  dnk1sag4=getRndInteger(1,9); sign1R4=2*getRndInteger(0,1)-1; d1sag4=getRndInteger(0,2);
+  dnk2sol1=getRndInteger(1,9); sign2L1=2*getRndInteger(0,1)-1; d2sol1=getRndInteger(0,2);
+  dnk2sol2=getRndInteger(1,9); sign2L2=2*getRndInteger(0,1)-1; d2sol2=getRndInteger(0,2);
+  dnk2sol3=getRndInteger(1,9); sign2L3=2*getRndInteger(0,1)-1; d2sol3=getRndInteger(0,2);
+  dnk2sol4=getRndInteger(1,9); sign2L4=2*getRndInteger(0,1)-1; d2sol4=getRndInteger(0,2);
+  dnk2sag1=getRndInteger(1,9); sign2R1=2*getRndInteger(0,1)-1; d2sag1=getRndInteger(0,2);
+  dnk2sag2=getRndInteger(1,9); sign2R2=2*getRndInteger(0,1)-1; d2sag2=getRndInteger(0,2);
+  dnk2sag3=getRndInteger(1,9); sign2R3=2*getRndInteger(0,1)-1; d2sag3=getRndInteger(0,2);
+  dnk2sag4=getRndInteger(1,9); sign2R4=2*getRndInteger(0,1)-1; d2sag4=getRndInteger(0,2);
+  k11=0; k12=0; c1=0; denklem1='&nbsp;&nbsp;';
+  k21=0; k22=0; c2=0; denklem2='&nbsp;&nbsp;';
+  // Terimleri yazıya dökerken matematiğini de kaydedelim
+  // Yani k11*x + k12*y = c1
+  //      k21*x + k22*y = c2 halini anlayıp kaydedelim.
+  // 1.DENKLEM
+  // Soldan 1. terim
+  if (sign1L1==-1) denklem1+='&minus;';
+  if ((dnk1sol1!=1)|(d1sol1==0)) denklem1+=dnk1sol1;
+  dnk1sol1*=sign1L1;
+  switch (d1sol1) {
+   case 0: c1-=dnk1sol1; denklem1+=' '; break;
+   case 1: k11+=dnk1sol1;	denklem1+=xyaz+' '; break;
+   case 2: k12+=dnk1sol1;	denklem1+=yyaz+' '; break;
+  }
+  // Soldan 2. terim.
+  if (sign1L2==-1) denklem1+='&minus; '; else denklem1+='+ ';
+  if ((dnk1sol2!=1) | (d1sol2==0)) denklem1+=dnk1sol2;
+  dnk1sol2*=sign1L2;
+  switch (d1sol2) {
+   case 0: c1-=dnk1sol2; denklem1+=' '; break;
+   case 1: k11+=dnk1sol2;	denklem1+=xyaz+' ';	break;
+   case 2: k12+=dnk1sol2;	denklem1+=yyaz+' ';	break;
+  }
+  // Soldan 3. terim.
+  if (sign1L3==-1) denklem1+='&minus; '; else denklem1+='+ ';
+  if ((dnk1sol3!=1) | (d1sol3==0)) denklem1+=dnk1sol3;
+  dnk1sol3*=sign1L3;
+  switch (d1sol3) {
+   case 0: c1-=dnk1sol3; denklem1+=' '; break;
+   case 1: k11+=dnk1sol3;	denklem1+=xyaz+' ';	break;
+   case 2: k12+=dnk1sol3;	denklem1+=yyaz+' ';	break;
+  }
+  // Soldan 4. terim.
+  if (sign1L4==-1) denklem1+='&minus; '; else denklem1+='+ ';
+  if ((dnk1sol4!=1) | (d1sol4==0)) denklem1+=dnk1sol4;
+  dnk1sol4*=sign1L4;
+  switch (d1sol4) {
+   case 0: c1-=dnk1sol4; denklem1+=' '; break;
+   case 1: k11+=dnk1sol4;	denklem1+=xyaz+' ';	break;
+   case 2: k12+=dnk1sol4;	denklem1+=yyaz+' ';	break;
+  }
+  denklem1+='<b>=</b> ';
+  // Sagdan 1. terim
+  if (sign1R1==-1) denklem1+='&minus;';
+  if ((dnk1sag1!=1)|(d1sag1==0)) denklem1+=dnk1sag1;
+  dnk1sag1*=sign1R1;  
+  switch (d1sag1) {
+   case 0: c1+=dnk1sag1; denklem1+=' '; break;
+   case 1: k11-=dnk1sag1;	denklem1+=xyaz+' '; break;
+   case 2: k12-=dnk1sag1;	denklem1+=yyaz+' '; break;
+  }
+  // Sagdan 2. terim.
+  if (sign1R2==-1) denklem1+='&minus; '; else denklem1+='+ ';
+  if ((dnk1sag2!=1) | (d1sag2==0)) denklem1+=dnk1sag2;
+  dnk1sag2*=sign1R2;
+  switch (d1sag2) {
+   case 0: c1+=dnk1sag2; denklem1+=' '; break;
+   case 1: k11-=dnk1sag2;	denklem1+=xyaz+' ';	break;
+   case 2: k12-=dnk1sag2;	denklem1+=yyaz+' ';	break;
+  }
+  // Sagdan 3. terim.
+  if (sign1R3==-1) denklem1+='&minus; '; else denklem1+='+ ';
+  if ((dnk1sag3!=1) | (d1sag3==0)) denklem1+=dnk1sag3;
+  dnk1sag3*=sign1R3;
+  switch (d1sag3) {
+   case 0: c1+=dnk1sag3; denklem1+=' '; break;
+   case 1: k11-=dnk1sag3;	denklem1+=xyaz+' ';	break;
+   case 2: k12-=dnk1sag3;	denklem1+=yyaz+' ';	break;
+  }
+  // Sagdan 4. terim.
+  if (sign1R4==-1) denklem1+='&minus; '; else denklem1+='+ ';
+  if ((dnk1sag4!=1)|(d1sag4==0)) denklem1+=dnk1sag4;
+  dnk1sag4*=sign1R4;
+  switch (d1sag4) {
+   case 0: c1+=dnk1sag4; denklem1+=' '; break;
+   case 1: k11-=dnk1sag4;	denklem1+=xyaz+' ';	break;
+   case 2: k12-=dnk1sag4;	denklem1+=yyaz+' ';	break;
+  }
+  // 2.DENKLEM
+  // Soldan 1. terim
+  if (sign2L1==-1) denklem2+='&minus;';
+  if ((dnk2sol1!=1)|(d2sol1==0)) denklem2+=dnk2sol1;
+  dnk2sol1*=sign2L1;  
+  switch (d2sol1) {
+   case 0: c2-=dnk2sol1; denklem2+=' '; break;
+   case 1: k21+=dnk2sol1;	denklem2+=xyaz+' '; break;
+   case 2: k22+=dnk2sol1;	denklem2+=yyaz+' '; break;
+  }
+  // Soldan 2. terim.
+  if (sign2L2==-1) denklem2+='&minus; '; else denklem2+='+ ';
+  if ((dnk2sol2!=1)|(d2sol2==0)) denklem2+=dnk2sol2;
+  dnk2sol2*=sign2L2;
+  switch (d2sol2) {
+   case 0: c2-=dnk2sol2; denklem2+=' '; break;
+   case 1: k21+=dnk2sol2;	denklem2+=xyaz+' ';	break;
+   case 2: k22+=dnk2sol2;	denklem2+=yyaz+' ';	break;
+  }
+  // Soldan 3. terim.
+  if (sign2L3==-1) denklem2+='&minus; '; else denklem2+='+ ';
+  if ((dnk2sol3!=1)|(d2sol3==0)) denklem2+=dnk2sol3;
+  dnk2sol3*=sign2L3;
+  switch (d2sol3) {
+   case 0: c2-=dnk2sol3; denklem2+=' '; break;
+   case 1: k21+=dnk2sol3;	denklem2+=xyaz+' ';	break;
+   case 2: k22+=dnk2sol3;	denklem2+=yyaz+' ';	break;
+  }
+  // Soldan 4. terim.
+  if (sign2L4==-1) denklem2+='&minus; '; else denklem2+='+ ';
+  if ((dnk2sol4!=1)|(d2sol4==0)) denklem2+=dnk2sol4;
+  dnk2sol4*=sign2L4;
+  switch (d2sol4) {
+   case 0: c2-=dnk2sol4; denklem2+=' '; break;
+   case 1: k21+=dnk2sol4;	denklem2+=xyaz+' ';	break;
+   case 2: k22+=dnk2sol4;	denklem2+=yyaz+' ';	break;
+  }
+  denklem2+='<b>=</b> ';
+  // Sagdan 1. terim
+  if (sign2R1==-1) denklem2+='&minus;';
+  if ((dnk2sag1!=1)|(d2sag1==0)) denklem2+=dnk2sag1;
+  dnk2sag1*=sign2R1;  
+  switch (d2sag1) {
+   case 0: c2+=dnk2sag1; denklem2+=' '; break;
+   case 1: k21-=dnk2sag1;	denklem2+=xyaz+' '; break;
+   case 2: k22-=dnk2sag1;	denklem2+=yyaz+' '; break;
+  }
+  // Sagdan 2. terim.
+  if (sign2R2==-1) denklem2+='&minus; '; else denklem2+='+ ';
+  if ((dnk2sag2!=1)|(d2sag2==0)) denklem2+=dnk2sag2;
+  dnk2sag2*=sign2R2;
+  switch (d2sag2) {
+   case 0: c2+=dnk2sag2; denklem2+=' '; break;
+   case 1: k21-=dnk2sag2;	denklem2+=xyaz+' ';	break;
+   case 2: k22-=dnk2sag2;	denklem2+=yyaz+' ';	break;
+  }
+  // Sagdan 3. terim.
+  if (sign2R3==-1) denklem2+='&minus; '; else denklem2+='+ ';
+  if ((dnk2sag3!=1)|(d2sag3==0)) denklem2+=dnk2sag3;
+  dnk2sag3*=sign2R3;
+  switch (d2sag3) {
+   case 0: c2+=dnk2sag3; denklem2+=' '; break;
+   case 1: k21-=dnk2sag3;	denklem2+=xyaz+' ';	break;
+   case 2: k22-=dnk2sag3;	denklem2+=yyaz+' ';	break;
+  }
+  // Sagdan 4. terim.
+  if (sign2R4==-1) denklem2+='&minus; '; else denklem2+='+ ';
+  if ((dnk2sag4!=1)|(d2sag4==0)) denklem2+=dnk2sag4;
+  dnk2sag4*=sign2R4;
+  switch (d2sag4) {
+   case 0: c2+=dnk2sag4; denklem2+=' '; break;
+   case 1: k21-=dnk2sag4;	denklem2+=xyaz+' ';	break;
+   case 2: k22-=dnk2sag4;	denklem2+=yyaz+' ';	break;
+  }
+  det=k11*k22-k12*k21;
+  x=(k22*c1-k12*c2)/det;
+  y=(-k21*c1+k11*c2)/det;
+ }
+ metin='<font color="purple"><b>D<sub>10</sub>:</b></font> &nbsp;'+denklem1+'<br>';
+ metin+= '<font color="purple"><b>D<sub>20</sub>:</b></font> &nbsp;'+denklem2+'<br>';
+ document.getElementById("Rasgele_denklemler").innerHTML = metin;
+ /* Gizli yazdırma
+ metin='<br><br><font color="white">';
+ metin+='k11='+k11+'; k12='+k12+'; c1='+c1+'<br><br>';
+ metin+='k21='+k21+'; k22='+k22+'; c2='+c2+'<br><br>';
+ metin+='determinant = '+det+'</font>';
+ document.getElementById("panel").innerHTML = metin;
+ */
+} // rasgeleDenklemKur() fonksiyonunun sonu
+
+function dogrumuD11() {
+  dogruD11=0;
+  try {k_11=eval(document.getElementById("k_11").value);} catch(err){k_11='bos';}
+  try {k_12=eval(document.getElementById("k_12").value);} catch(err){k_12='bos';}
+  try {c_1=eval(document.getElementById("c_1").value);} catch(err){c_1='bos';}
+  if (isNaN(k_11)|isNaN(k_12)|isNaN(c_1)) document.getElementById('D11_dogruluk').innerHTML = '<font color="blue"><b> &nbsp;&#x1F914 Henüz tüm katsayılar geçerli değil.</b></font>';
+  else {
+    if (k_11!=0) {
+	   oran=k11/k_11;
+	   if ((Math.abs(oran*k_12-k12)<1e-8)&(Math.abs(oran*c_1-c1)<1e-8)) {
+	     document.getElementById('D11_dogruluk').innerHTML = '<font color="green"><b> &#x1F604 &nbsp;DOĞRU &#x1F44F</b></font><button onclick="sabitleD11()">Bunu yaz kenara</button>';
+	     dogruD11=1;
+	   }
+	   else {
+	     document.getElementById('D11_dogruluk').innerHTML = '<font color="red"><b> &nbsp;&#x1F641 YANLIŞ </b></font>';
+	   }
+    }
+    else if (k_12!=0) {
+	  oran=k12/k_12;
+	  if ((Math.abs(oran*k_11-k11)<1e-8)&(Math.abs(oran*c_1-c1)<1e-8)) {
+	    document.getElementById('D11_dogruluk').innerHTML = '<font color="green"><b> &#x1F604 &nbsp;DOĞRU &#x1F44F </b></font><button onclick="sabitleD11()">Bunu yaz kenara</button>';
+	    dogruD11=1;
+	  }
+	  else {
+	    document.getElementById('D11_dogruluk').innerHTML = '<font color="red"><b> &nbsp;&#x1F641 YANLIŞ </b></font>';
+	  }
+    }
+    else if (c_1!=0) {
+	  oran=c1/c_1;
+	  if ((Math.abs(oran*k_11-k11)<1e-8)&(Math.abs(oran*k_12==k12)<1e-8)) {
+	    document.getElementById('D11_dogruluk').innerHTML = '<font color="green"><b> &#x1F604 &nbsp;DOĞRU &#x1F44F</b></font><button onclick="sabitleD11()">Bunu yaz kenara</button>';
+	    dogruD11=1;
+	  }
+	  else {
+	    document.getElementById('D11_dogruluk').innerHTML = '<font color="red"><b> &nbsp;&#x1F641 YANLIŞ </b></font>';
+	  }
+    }
+    else {
+	  document.getElementById('D11_dogruluk').innerHTML = '<font color="orange"><b> &#x1F61C FAYDASIZ KATSAYILAR</b></font>';
+    }
+  }
+}
+
+function dogrumuD21() {
+  dogruD21=0;
+  try {k_21=eval(document.getElementById("k_21").value);} catch(err){k_21='bos';}
+  try {k_22=eval(document.getElementById("k_22").value);} catch(err){k_22='bos';}
+  try {c_2=eval(document.getElementById("c_2").value);} catch(err){c_2='bos';}
+  if (isNaN(k_21)|isNaN(k_22)|isNaN(c_2)) document.getElementById('D21_dogruluk').innerHTML = '<font color="blue"><b> &nbsp;&#x1F914 Henüz tüm katsayılar geçerli değil.</b></font>';
+  else {
+     if (k_21!=0) {
+	   oran=k21/k_21;
+	   if ((Math.abs(oran*k_22-k22)<1e-8)&(Math.abs(oran*c_2-c2)<1e-8)) {
+	     document.getElementById('D21_dogruluk').innerHTML = '<font color="green"><b> &#x1F604 &nbsp;DOĞRU &#x1F44F</b></font><button onclick="sabitleD21()">Bunu yaz kenara</button>';
+	     dogruD21=1;
+	   }
+	   else {
+	     document.getElementById('D21_dogruluk').innerHTML = '<font color="red"><b> &nbsp;&#x1F641 YANLIŞ </b></font>';
+	   }
+    }
+    else if (k_22!=0) {
+	  oran=k22/k_22;
+	  if ((Math.abs(oran*k_21-k21)<1e-8)&(Math.abs(oran*c_2-c2)<1e-8)) {
+	    document.getElementById('D21_dogruluk').innerHTML = '<font color="green"><b> &#x1F604 &nbsp;DOĞRU &#x1F44F </b></font><button onclick="sabitleD21()">Bunu yaz kenara</button>';
+	    dogruD21=1;
+	  }
+	  else {
+	    document.getElementById('D21_dogruluk').innerHTML = '<font color="red"><b> &nbsp;&#x1F641 YANLIŞ </b></font>';
+	  }
+    }
+    else if (c_2!=0) {
+	  oran=c2/c_2;
+	  if ((Math.abs(oran*k_21-k21)<1e-8)&(Math.abs(oran*k_22==k22)<1e-8)) {
+	    document.getElementById('D21_dogruluk').innerHTML = '<font color="green"><b> &#x1F604 &nbsp;DOĞRU &#x1F44F</b></font><button onclick="sabitleD21()">Bunu yaz kenara</button>';
+	    dogruD21=1;
+	  }
+	  else {
+	    document.getElementById('D21_dogruluk').innerHTML = '<font color="red"><b> &nbsp;&#x1F641 YANLIŞ </b></font>';
+	  }
+    }
+    else {
+	  document.getElementById('D21_dogruluk').innerHTML = '<font color="orange"><b> &#x1F61C FAYDASIZ KATSAYILAR</b></font>';
+    }
+  }
+}
+
+function sabitleD11() {
+  if (k_11<0) {
+    metin='&minus;'; if ((-k_11)!=1) metin+=(-k_11);
+    metin+='<i><b>x</b></i>';
+  }
+  else if (k_11>0) {
+	metin=' '; if (k_11!=1) metin+=k_11;
+    metin+='<i><b>x</b></i>';
+  }
+  else metin=' ';
+  if (k_12<0) {
+	metin+=' &minus; '; if ((-k_12)!=1) metin+=(-k_12);
+	metin+='<i><b>y</b></i> = ';
+  }
+  else if (k_12>0) {
+	metin+=' + '; if (k_12!=1) metin+=k_12;
+    metin+='<i><b>y</b></i> = ';
+  }
+  else metin+=' = ';
+  if (c_1<0) metin+=' &minus;'+(-c_1); else metin+=' '+c_1;
+  document.getElementById('sabitD11').innerHTML =metin;
+}
+
+function sabitleD21() {
+  if (k_21<0) {
+	metin='&minus;'; if ((-k_21)!=1) metin+=(-k_21);
+    metin+='<i><b>x</b></i>';
+  }
+  else if (k_21>0) {
+	metin=' '; if (k_21!=1) metin+=k_21;
+    metin+='<i><b>x</b></i>';
+  }
+  else metin=' ';
+  if (k_22<0) {
+	metin+=' &minus; '; if ((-k_22)!=1) metin+=(-k_22);
+	metin+='<i><b>y</b></i> = ';
+  }
+  else if (k_22>0) {
+	metin+=' + '; if (k_22!=1) metin+=k_22;
+    metin+='<i><b>y</b></i> = ';
+  }
+  else metin+=' = ';
+  if (c_2<0) metin+=' &minus;'+(-c_2); else metin+=' '+c_2;
+  document.getElementById('sabitD21').innerHTML =metin;
+}
+
+function dogrumuDx() {
+  try {kx=eval(document.getElementById("kx").value);} catch(err){kx='bos';}
+  try {cx=eval(document.getElementById("cx").value);} catch(err){cx='bos';}
+  if (isNaN(kx)|isNaN(cx)) document.getElementById('dogrulukDx').innerHTML = '<font color="blue"><b> &nbsp;&#x1F914 Henüz tüm sayılar geçerli değil.</b></font>';
+  else if (kx!=0) {
+	if (Math.abs(kx*x-cx)<1e-8) document.getElementById('dogrulukDx').innerHTML = '<font color="green"><b> &#x1F604 &nbsp;DOĞRU &#x1F44F</b></font>&nbsp;&nbsp;';
+	else document.getElementById('dogrulukDx').innerHTML = '<font color="red"><b> &nbsp;&#x1F641 YANLIŞ </b></font>';
+  }
+  else document.getElementById('dogrulukDx').innerHTML = '<font color="orange"><b> &#x1F61C FAYDASIZ KATSAYILAR</b></font>';
+}
+
+function dogrumuDy() {
+  try {ky=eval(document.getElementById("ky").value);} catch(err){ky='bos';}
+  try {cy=eval(document.getElementById("cy").value);} catch(err){cy='bos';}
+  if (isNaN(ky)|isNaN(cy)) document.getElementById('dogrulukDy').innerHTML = '<font color="blue"><b> &nbsp;&#x1F914 Henüz tüm sayılar geçerli değil.</b></font>';
+  else if (ky!=0) {
+	if (Math.abs(ky*y-cy)<1e-8) document.getElementById('dogrulukDy').innerHTML = '<font color="green"><b> &#x1F604 &nbsp;DOĞRU &#x1F44F</b></font>&nbsp;&nbsp;';
+	else document.getElementById('dogrulukDy').innerHTML = '<font color="red"><b> &nbsp;&#x1F641 YANLIŞ </b></font>';
+  }
+  else document.getElementById('dogrulukDy').innerHTML = '<font color="orange"><b> &#x1F61C FAYDASIZ KATSAYILAR</b></font>';
+}
+
+function dogrumuDxy() {
+  try {kxy=eval(document.getElementById("kxy").value);} catch(err){kxy='bos';}
+  try {cxy=eval(document.getElementById("cxy").value);} catch(err){cxy='bos';}
+  if (isNaN(kxy)|isNaN(cxy)) document.getElementById('dogrulukDxy').innerHTML = '<font color="blue"><b> &nbsp;&#x1F914 Henüz tüm sayılar geçerli değil.</b></font>';
+  else if ((kxy!=0)|(cxy!=0)) {
+	if (Math.abs(kxy*y-cxy*x)<1e-8) document.getElementById('dogrulukDxy').innerHTML = '<font color="green"><b> &#x1F604 &nbsp;DOĞRU &#x1F44F</b></font>&nbsp;&nbsp;';
+	else document.getElementById('dogrulukDxy').innerHTML = '<font color="red"><b> &nbsp;&#x1F641 YANLIŞ </b></font>';
+  }
+  else document.getElementById('dogrulukDxy').innerHTML = '<font color="orange"><b> &#x1F61C FAYDASIZ KATSAYILAR</b></font>';
+}
+
+function dogrumu_x() {
+  try {xx=eval(document.getElementById("xx").value);} catch(err){xx='bos';}
+  if (isNaN(xx)) document.getElementById('dogruluk_x').innerHTML = '<font color="blue"><b> &nbsp;&#x1F914 Henüz kutu içeriği geçerli değil.</b></font>';
+  else {
+	if (Math.abs(xx-x)<1e-8) {
+	  document.getElementById('dogruluk_x').innerHTML = '<font color="green"><b> &#x1F604 &nbsp;DOĞRU &#x1F44F</b></font>&nbsp;&nbsp;';
+	  dogrux=1;
+	  yazx();
+	}
+	else document.getElementById('dogruluk_x').innerHTML = '<font color="red"><b> &nbsp;&#x1F641 YANLIŞ </b></font>';
+  }
+}
+
+function dogrumu_y() {
+  try {yy=eval(document.getElementById("yy").value);} catch(err){yy='bos';}
+  if (isNaN(yy)) document.getElementById('dogruluk_y').innerHTML = '<font color="blue"><b> &nbsp;&#x1F914 Henüz kutu içeriği geçerli değil.</b></font>';
+  else {
+	if (Math.abs(yy-y)<1e-8) {
+	  document.getElementById('dogruluk_y').innerHTML = '<font color="green"><b> &#x1F604 &nbsp;DOĞRU &#x1F44F</b></font>&nbsp;&nbsp;';
+	  dogruy=1;
+	  yazy();
+	}
+	else document.getElementById('dogruluk_y').innerHTML = '<font color="red"><b> &nbsp;&#x1F641 YANLIŞ </b></font>';
+  }
+}
+
+function yazx() {
+  document.getElementById('dogruluk_x').innerHTML += '&nbsp;&nbsp;<span style="border-style:solid; border-width:2px 2px 2px 2px; border-color:green"><b><font color="red"> &nbsp;x</font> '+' = '+x+'</b></span>';
+  bitti();
+}
+
+function yazy() {
+  document.getElementById('dogruluk_y').innerHTML += '&nbsp;&nbsp;<span style="border-style:solid; border-width:2px 2px 2px 2px; border-color:green"><b><font color="red"> &nbsp;y</font> '+' = '+y+'</b></span>';
+  bitti();
+}
+
+function bitti() {
+  if ((dogrux==1)&(dogruy==1)) {
+    document.getElementById('panel').innerHTML = '&nbsp;&nbsp;<font color="green"><b>TEBRİKLER! Denklem çiftini ÇÖZDÜNÜZ!</b></font>';
+    soundManager.play('ses','mp3/ses.mp3');
+  }
+}
+	</script>
+  </head>
+  <body onload="rasgeleDenklemKur()">
+    <b>İKİ BİLİNMEYENLİ DENKLEM ÇİFTİ</b>&nbsp;&nbsp;
+	<a href="javascript:gizleGoster(document.getElementById('Amac'))">Sayfanın amacı için tıklayınız</a>
+	<p id="Amac" style="display: none">İki bilinmeyenli doğrusal denklem çifti çözüm alıştırmalarını rasgele veya istenildiği gibi üretilen denklemler üzerinde adım adım otomatik değerlendirmeli olarak yaptırmak amaçlanmıştır. Şimdilik sadece yok etme yöntemi kapsanmıştır. Ortaokul son sınıftan itibaren bu konuda zorlanan herkese faydası olacağı düşünülmektedir.<br>10<sup>-8</sup> = 0.00000001 <i>yakınlığındaki sayılar eşit kabul edilmektedir. Ondalık ayracı olarak <b>nokta</b> kullanınız, <strike>virgül</strike> değil.</i></p>
+	<p id="Rasgele_denklemler"></p>
+	<p>Katsayıları düzenleyip sırasıyla kutulara yazınız. Tutarlı olmak şartıyla doğru cevap farklı sayılarla da yazılabilir; hatta + - * / ( ) ile bile yazılabilir.</p>
+
+	<p><font color="purple"><b>D<sub>11</sub></b>:</font>&nbsp;&nbsp;&nbsp;<input type="text" id="k_11" style="width:30px; height:20px; text-align:right" onKeyUp="dogrumuD11()"><font color="red"><i><b> x</b></i></font> + <input type="text" id="k_12" style="width:30px; height:20px; text-align:right"  onKeyUp="dogrumuD11()"><font color="red"><i><b> y</b></i></font> = <input type="text" id="c_1" style="width:30px; height:20px; text-align:right"  onKeyUp="dogrumuD11()"><span id="D11_dogruluk"></span>&nbsp;<span id="sabitD11"></span></p>
+
+	<p><font color="purple"><b>D<sub>21</sub></b>:</font>&nbsp;&nbsp;&nbsp;<input type="text" id="k_21" style="width:30px; height:20px; text-align:right" onKeyUp="dogrumuD21()"><font color="red"><i><b> x</b></i></font> + <input type="text" id="k_22" style="width:30px; height:20px; text-align:right"  onKeyUp="dogrumuD21()"><font color="red"><i><b> y</b></i></font> = <input type="text" id="c_2" style="width:30px; height:20px; text-align:right"  onKeyUp="dogrumuD21()"><span id="D21_dogruluk"></span>&nbsp;<span id="sabitD21"></span></p>
+	
+	<p>Sonra bu denklemleri uygun sayılarla çarpıp toplayıp(veya çıkartıp) yalnız <font color="red"><i><b> x</b></i></font> ya da yalnız <font color="red"><i><b> y</b></i></font> cinsinden bir denklem bulun ve aşağıda o denkleme ait kutulara katsayılarını yazın. Doğru iseler elde ettiğiniz tek bilinmeyenli denklemi çözüp sağ tarafa yazın. Çarpılmış denklemleri de yukarıda düzenleyin. Bu sırada denklemin bir önceki halini unutabileceğiniz için "Bunu yaz kenara" düğmesine basmanız tavsiye edilir, ki bu işlemli yazılan katsayıları değere de çevirir(tekrar basılmadıkça bu yazılan değişmez). <i>D<sub>xy</sub> denklemini kurmanıza genellikle gerek yoktur. Nadiren ihtiyaç olabilir diye o satır eklenmiştir.</i></p>
+	
+	<table>
+	  <tr>
+		<td>
+	      <font color="purple"><b>D<sub>x</sub></b>:</font>&nbsp;&nbsp;&nbsp;<input type="text" id="kx" style="width:50px; height:20px; text-align:right" onKeyUp="dogrumuDx()"><font color="red"><i><b> x</b></i></font> = <input type="text" id="cx" style="width:50px; height:20px; text-align:left"  onKeyUp="dogrumuDx()"><span id="dogrulukDx">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+		</td>
+		<td>
+	      <font color="red"><i><b> x</b></i></font> = <input type="text" id="xx" style="width:100px; height:20px; text-align:left"  onKeyUp="dogrumu_x()"><span id="dogruluk_x">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+		</td>
+	  </tr>
+	  <tr>
+		<td>
+		  <font color="purple"><b>D<sub>y</sub></b>:</font>&nbsp;&nbsp;&nbsp;<input type="text" id="ky" style="width:50px; height:20px; text-align:right" onKeyUp="dogrumuDy()"><font color="red"><i><b> y</b></i></font> = <input type="text" id="cy" style="width:50px; height:20px; text-align:left"  onKeyUp="dogrumuDy()"><span id="dogrulukDy"></span>
+		</td>
+		<td>
+		  <font color="red"><i><b> y</b></i></font> = <input type="text" id="yy" style="width:100px; height:20px; text-align:left"  onKeyUp="dogrumu_y()"><span id="dogruluk_y"></span>
+		</td>
+	  </tr>
+	  <tr>
+	    <td>
+		  <p><font color="purple"><b>D<sub>xy</sub></b>:</font>&nbsp;<input type="text" id="kxy" style="width:50px; height:20px; text-align:right" onKeyUp="dogrumuDxy()"><font color="red"><i><b> y</b></i></font> = <input type="text" id="cxy" style="width:50px; height:20px; text-align:right"  onKeyUp="dogrumuDxy()"><font color="red"><i><b> x</b></i></font><span id="dogrulukDxy"></span></p>
+		</td>
+		<td>
+		</td>
+	  </tr>
+	</table>
+	<p id="panel"></p>
+	
+	<table>
+	  <td><form action="iki_bilinmeyen.htm" method="post">
+		<input type="submit" value="Yeni İKİ bilinmeyenli"/>
+	  </form></td>
+	  <td><form action="tek_bilinmeyen.php" method="post">
+		<input type="submit" value="TEK bilinmeyenli"/>
+	  </form></td>
+	</table>
+  </body>
+</html>

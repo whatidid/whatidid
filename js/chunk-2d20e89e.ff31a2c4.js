@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d20e89e"],{b093:function(n,e,t){"use strict";t.r(e);var a=function(){var n=this,e=n.$createElement,t=n._self._c||e;return t("v-container",[t("h3",[n._v("TODO")]),t("router-link",{attrs:{to:"/pages/emd/dc"}},[n._v("DC Servo")])],1)},r=[],o={name:"Emd",data:function(){return{lastUpdate:"9.10.2021"}}},u=o,c=t("2877"),l=t("6544"),s=t.n(l),i=t("a523"),d=Object(c["a"])(u,a,r,!1,null,null,null);e["default"]=d.exports;s()(d,{VContainer:i["a"]})}}]);
+//# sourceMappingURL=chunk-2d20e89e.ff31a2c4.js.map

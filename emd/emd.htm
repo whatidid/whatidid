@@ -1,0 +1,100 @@
+<html>
+
+<head>
+<meta http-equiv="Content-Language" content="tr">
+<meta name="GENERATOR" content="Microsoft FrontPage 5.0">
+<meta name="ProgId" content="FrontPage.Editor.Document">
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1254">
+<title>Elektrik Motorlarının Denetimi</title>
+</head>
+
+<body bgcolor="#33CCFF">
+
+<p>Son güncellenme tarihi: <font color="#FF0000"><b></b></font><b><font color="#FF0000">15.10.2015</font></b><font color="#FF0000"></font></p>
+<p><a href="Elektrik_Motorlarinin_Denetimi-tr.pdf">Ders içeriği ve tanıtım formu</a></p>
+4. hafta dersimizde yapılan <a href="dc_motor.m">dc motor simülasyonu</a> programının düzenlenmiş halini indirebilirsiniz. MATLAB programıdır.
+<p>**********************</p>
+<p>Aşağıdakiler ise 2012 tarihli dosyalar ve ödevlerdir:</p>
+<p>Elektrik Motorlarının Denetimi dersinde MATLAB üzerinde  yapılanlar ile 
+ödevlerinizde yardımcı olacak MATLAB dosyalarını buradan
+<a href="emd_matlab.zip">indirebilirsiniz</a>.</br>Başlıca dosyalar hakkında 
+aıklamalar şöyledir:</br>dcmotor.m&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+: DC servo motor</br>asenkron_albt.m&nbsp;&nbsp;&nbsp; 
+: Durgun (alfa,beta) eksenlere göre asenkron motor simülasyonu (voltajların bir 
+şekilde üretildiği varsayılıyor)</br>asenkron_ws.m&nbsp;&nbsp;&nbsp;&nbsp; : 
+Senkron hızda dönen (dq) eksenlere göre asenkron motor simülasyonu (voltajların 
+bir şekilde üretildiği varsayılıyor)</br>asenkron_pwm.m&nbsp; : Durgun 
+(alfa,beta) eksenlere göre asenkron motor simülasyonu ama uzay vektör 
+modülasyonlu pwm ile.&nbsp;</br>
+
+pmsm.m&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : 
+Senkron hızda dönen (dq) eksenlere göre sabit mıknatıslı senkron motor 
+simülasyonu (voltajların bir şekilde üretildiği varsayılıyor)</br>
+
+srsm.m&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : 
+Senkron hızda dönen (dq) eksenlere göre sargılı rotorlu senkron motor 
+simülasyonu (voltajların bir şekilde üretildiği varsayılıyor)</br>DTC (klasör)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+: Doğrudan tork kontrolü ile asenkron motorun durgun (alfa,beta) eksenlere göre 
+simülasyon dosyaları olup şu an çalışmakla beraber daha da güncellenecektir.</br></br><a href="file:///C:/Documents%20and%20Settings/Elektrik.DATRON/Desktop/gecici%20web/FOC_blok.jpg">FOC blok şeması</a>nı da 
+indirebilirsiniz. DTC'deki ana dosya temizlenmiştir.10.01.2011.</br>
+
+<p>
+<a href="http://em.ucv.ro/elee/EN/realisations/MachinesElectriques/Induction/DirectTorqueControl/Principe/4_cours.htm">
+DTC için derste kullandığım internet sayfasının bağlantısı</a><p>Ödevler 
+şöyledir:<p><b><font color="#FF0000">Ödev 3 ve 4</font></b><p>Sabit mıknatıslı 
+senkron motor ve sargılı rotorlu senkron motor modellerinden birisini uzay 
+vektörlü FOC, diğerini de DTC yöntemiyle kontrol etmeniz istenmektedir. Bunun 
+için asenkron motor için yazılmış asenkron_pwm.m dosyası ve DTC klasöründeki 
+dosyaları uygun şekilde düzenleyebilirsiniz. Ancak, senkron motorların en 
+uygun simülasyonları senkron hızla dönen eksenlere (dq) göre olmasına rağmen 
+kontrol yazılımınızın doğrudan dq akım bileşenlerinden ölçüm alması yasaktır; 
+çünkü pratikte bu mümkün değildir. dq akım bileşenleri durgun alfa,beta 
+eksenlerine dönüştürülerek ölçüm olarak alınmalıdır. (Bunun tekrar dq 
+eksenlerine dönüştürülerek kullanılması yazılım için gereksiz bir dönüşüm-ters 
+dönüşüm çifti gibi görülse de ileride ölçümlerde gürültü olduğunu düşündüğünüzde 
+fark önemli olacak. Ama siz yine de şimdilik gürültüsüz çalışacaksınız.) 
+Simülasyonlarda motorlar yüksüz kaldırılacak, hız dengeye gelince yüklenecek, 
+tekrar hız dengeye gelince yük sıfırlanarak tekrar dengeye gelene kadar yeterli 
+bir sürede simülasyon tamamlanacaktır. Akımlar ve hız çizilecektir. 
+Programlarınız ile seçenekleriniz (DTC ile sargılı rotorlu ve FOC ile sabit 
+mıknatıslı ya da DTC ile sabit mıknatıslı ve FOC ile sargılı rotorlu) 
+birbirinizden alındığını düşündürtecek kadar benzememelidir.</br>
+
+<p><b>Ödev 2</b> şöyledir:</p>
+
+<p>Asenkron motor ve senkron motor için ayrı ayrı birer simulink model dosyası 
+üzerinde motora uygun genlikte 50Hz'lik AC gerilim uygulayınız. Motor başta 
+yüksüz olsun. Çalışma dengeye geldikten bir süre sonra anma değerine yakın 
+büyüklükte bir yük torku uygulansın. Yeniden dengeye ulaşıldıktan sonra ise yük 
+torku tamamen kaldırılsın. Yeniden dengeye ulaşıldıktan sonra AC kaynak 
+geriliminin genliği aniden %40 artırılsın. Yeniden dengeye ulaşıldıktan sonra 
+ise bu gerilim tekrar eski değerine getirilsin. Çalışmada görüntülenmesi istenen 
+grafikler şunlardır: Senkron motorun stator, asenkron motorun rotor akısı 
+vektörünün büyüklüğü ile iki motorda da stator fazlarından birisinin akımı (50Hz'lik AC akım) ve 
+rotor hızı (devir/dakika = rpm cinsinden).</p>
+
+<p>İki ayrı model dosyası teslim etmeniz beklenmektedir. Herbirinde 3'er grafik 
+çizilmelidir. </p>
+
+<p> <b>Ödev 1</b> şöyledir:</p>
+<p>Derste Euler metoduyla yapılan DC motor model simülasyonunu Runga-Kutta metoduna 
+göre düzenleyiniz. Giriş voltajını rampa şeklinde sıfırdan itibaren artırarak 
+motoru kaldırınız. Sonra voltajı anma değerinde sabit tutunuz. Kalkış sırasında 
+ve motor dengeye gelene kadar bir süre yük torku sıfır olsun. Sonra aniden tam 
+yük torkunu uygulayınız. Yine dengeye geldikten bir süre sonra aniden yük 
+torkunu kaldırınız. Dengeye geldikten sonra giriş voltajını rampa inişi şeklinde 
+zıt yönde anma değerine getiriniz ve bu değerde sabit tutunuz. Dengeye gelince 
+öncekiyle aynı işaretli yük torkunu aniden uygulayınız. Bu durumda DC makina 
+jeneratör moduna geçecek ve biraz hızlanacaktır. Dengede bir süre çalıştıktan 
+sonra yük torkunu aniden kaldırınız(sıfırlayınız). Yine dengede bir süre 
+çalıştıktan sonra giriş voltajını aniden sıfırlayınız. Dengeye gelinceye kadar 
+(hız ve akım sıfırlanana kadar) bir süre daha çalıştırıp simülasyonu 
+sonuçlandırınız. Tüm bunlar aynı simülasyon çalışması içinde yer alacaktır. Hız 
+ve yük torkunu uygun bir ölçekle (değişimler farkedilebilecek şekilde) aynı 
+grafik penceresinde, voltaj ve akım grafiklerini de başka bir grafik 
+penceresinde yine uygun ölçeklerle çizdiriniz. Grafikler üzerine Matlab 
+komutlarıyla açıklamalar yazdırınız.</p>
+
+</body>
+
+</html>
